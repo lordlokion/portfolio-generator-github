@@ -20,6 +20,8 @@ Portfolio Generator is a tool that allows users to easily create and customize t
 - 🎨 **Customization:** Personalize the design and layout of your portfolio to suit your style.
 - ⚙️ **HTML Generation:** Automatically generate HTML code for your portfolio with the entered information.
 
+  ## Index Page
+
   
 ![Screenshot from 2023-12-21 16-56-46](https://github.com/lordlokion/universal/assets/31504654/e453d6a4-0d84-4759-b2c3-8424d24bd8ee)
 
